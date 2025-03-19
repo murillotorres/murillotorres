@@ -15,7 +15,7 @@ Desenvolvedor FullStack especializado em desenvolvimento web com WordPress.
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div>
 
-
 ### 📫 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)]([https://linkedin.com/in/SEU_PERFIL](https://www.linkedin.com/in/murillottorres/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/murillottorres/)
 [![E-mail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:murillotttorres@live.com)
+
