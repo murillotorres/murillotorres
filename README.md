@@ -1,5 +1,5 @@
-## 👋 Olá, eu sou o Murilo!
-Sou desenvolvedor e estou em busca do meu primeiro emprego internacional. Amo tecnologia, React e desenvolvimento web.
+## 👋 Murillo Torres
+Desenvolvedor FullStack especializado em desenvolvimento web com WordPress.
 
 ### 🚀 Tecnologias que uso:
 - 🖥️ React, Redux, ContextAPI
